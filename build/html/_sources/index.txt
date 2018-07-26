@@ -16,5 +16,7 @@ Contents:
   
   site
   dataset
-
+  my_content
+  network
+  lter
 

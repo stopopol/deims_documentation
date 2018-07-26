@@ -13,6 +13,8 @@ Adding an observation location
 ============================================================
 It is required to define the geographic information of a dataset. This is done by create or referencing to an "observation location".
 
+.. image:: _images/adding_observation_location.gif
+
 It is mandatory to give a research site:
 
 - Name of observation location

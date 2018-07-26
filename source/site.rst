@@ -6,12 +6,22 @@ Adding a site
 ============================================================
 Go to "Edit/Site/Add Site"
 
+List of required fields
+============================================================
+- Site Name
+- Contact: Site Manager
+- Is your site part of any network or project?
+
+  - if "Yes" then the field "Networks/Projects" appears and is also mandatory
+
+
+
 Adding content inline
 ============================================================
 Click "Create person" or "Create organisation" while editing a site or a dataset.
 Please don't create the same person over and over again. Use the search field to look for already existing entries.
 
-.. image:: _images/add_content_inline.png
+.. image:: _images/adding_person_inline.gif
 
 How is the site title constructed?
 ============================================================
