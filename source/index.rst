@@ -10,7 +10,7 @@ Welcome to the tutorial's section of DEIMS-SDR
 Here you will find information on how to use DEIMS-SDR. 
 If you need more information on something or feel like the tutorials are not sufficient, please contact us so we can take care of that.
 
-Contents:
+.. image:: _images/logo_title_inline_height50.png
 
 .. toctree::
   
