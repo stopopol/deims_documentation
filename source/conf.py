@@ -55,7 +55,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'DEIMS-SDR Tutorials'
+project = 'DEIMS-SDR Documentation'
 copyright = '2020, LTER Europe'
 author = 'DEIMS Team'
 
