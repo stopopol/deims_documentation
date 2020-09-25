@@ -4,17 +4,15 @@ Adding or editing site information
 
 Adding a site
 ============================================================
-Go to "Edit/Site/Add Site"
+Go to "Edit/Add Content" and then select "Site"
 
 List of required fields
 ============================================================
 - Site Name
-- Contact: Site Manager
-- Is your site part of any network or project?
-
-  - if "Yes" then the field "Networks/Projects" appears and is also mandatory
-
-
+- Country (Site Location)
+- Coordinates
+- Is your site part of any network, project or research infrastructure?
+ - if yes then the additional fields will appear which are also mandatory
 
 Adding content inline
 ============================================================
@@ -28,7 +26,7 @@ How is the site title constructed?
 It is constructed using the information stored in the fields "site name" and "country", which represents the country where the site is located.
 
 The syntax for the title is:
-[site name] + [country]
+[site name] - [country]
 
 Uploading images
 ===============================================
@@ -36,21 +34,91 @@ When entering site information you can upload images.
 Go to the tab "Name And General Description". At the bottom of the page you will find the upload form.
 Select one or multiple images and upload them.
 
-Adding a new network/project
+Adding a new network/project/RIs
 ========================================
-New networks or projects can't be added by users. Please contact us if you want your network/project to be added.
+New networks, RIs or projects can't be added by users. Please contact us if you want your network/project/RI to be added.
 
-Publishing content
+
+Site Completeness Measure
 =======================================
-Until you "publish" your site it won't be visible the other users than you.
-You can publish your content by editing your site and hitting the "publish" button at the bottom of the form.
+DEIMS-SDR will provide you with a status bar indicating how complete your site record is.
+These are the fields that are currently used to calculate said completeness.
 
-You can find all of your sites, both published and unpublished under Edit/Site/My sites
+**Name and Description**
+
+- Site Name
+- General Site Description
+- Purpose of site
+
+**Contact Details**
+
+- Site Manager
+
+**Metadata Details**
+
+- Metadata provider
+
+**Geographic characteristics**
+
+- Centroid Coordinates
+- Country
+- Elevation (From)
+- Elevation (To)
+- Size (in hectares)
+
+**Ecosystem and Environmental Characteristics**
+
+- Air Temperature: Average Annual
+- Biome
+- Ecosystem and Land Use
+- Precipitation Annual
+
+**Network Affiliation**
+
+- Affiliation
+
+**Site Classification**
+
+- Site Type (Spatial Design)
+
+**Status and History**
+
+- Site Status
+- Year Established
+
+**Focus, Design and Scale of Site**
+
+- Parameters
+- Research Topics
+- Scale of Observation
+- Design of Observation
+- Scale of Experiments
+- Design of Experiments
+
+**Infrastructure and Operation**
+
+- Accessible All Year
+- Permanent Power Supply
+- Permanent Operation
+
+**Data Sharing Policy**
+
+- Data storage location
+
+**Highly recommended, yet not mandatory**
+
+- Short name
+- Site Boundaries
+- GEO-BON Biome
+
+
+It is nevertheless recommended to provide more than the listed information
 
 Setting a site to inactive
 ===============================================
 Set the field "site status" to "abandoned/inactive".
 A new field will appear where you can indicate when the site closed down.
+As soon as you set a site to inactive, it will be excluded from all search results and maps.
 
 .. image:: _images/site_inactive.png
 
@@ -58,13 +126,6 @@ Editing the accreditation status
 =================================================
 **Editing the accreditation status can only be done by national network managers**
 
-- Log in as a user with the your national account
-- Go to Network/Management/Site Accreditation
-- Type in your password
-- Select your site(s)
-- Click "Choose Operation"
-- Select the action you want to take:
-- Set the status to potential or
-- Set the status to formal
-- Set the status to rejected
-- Click "Execute"
+Please contact us personally regarding any kind of network accreditation.
+
+If you encounter any problems or have questions please contact us.

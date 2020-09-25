@@ -2,51 +2,49 @@
 LTER specific information
 ==============================================
 
-List of required fields for ILTER
+List of required fields for any LTER site
 ============================================================
+(ILTER or any regional group)
 
 **Name and Description**
 
 - Site Name
-- Site Code
-- Short Name
-- Size (in hectares)
 - General Site Description
 - Purpose of site
 
 **Contact Details**
 
-- Site Contact
+- Site Manager
 
 **Metadata Details**
 
 - Metadata provider
 
-**Geographic Location**
+**Geographic characteristics**
 
+- Centroid Coordinates
 - Country
-- Coordinates
 - Elevation (From)
-- Elevation (Average)
 - Elevation (To)
+- Size (in hectares)
 
 **Ecosystem and Environmental Characteristics**
 
-- Temperature: Average Annual
-- Precipitation Annual
+- Air Temperature: Average Annual
 - Biome
-- GEO-Bon biome
 - Ecosystem and Land Use
+- Precipitation Annual
 
 **Network Affiliation**
 
+- Affiliation
+- LTER Site Code
 - LTER Member Network
-- Networks (in addition to / Other than ILTER)
+- LTER Site Classification/Category
 
 **Site Classification**
 
 - Site Type (Spatial Design)
-- Site Classification/Category
 
 **Status and History**
 
@@ -55,16 +53,12 @@ List of required fields for ILTER
 
 **Focus, Design and Scale of Site**
 
-- Research Topics
 - Parameters
+- Research Topics
 - Scale of Observation
 - Design of Observation
 - Scale of Experiments
 - Design of Experiments
-
-**Protection Status and Resource Management**
-
-- Protection Program
 
 **Infrastructure and Operation**
 
@@ -74,90 +68,11 @@ List of required fields for ILTER
 
 **Data Sharing Policy**
 
-- Data Request Format
 - General Data Policy
 - Data storage location
 
-List of required fields for LTER Europe
-============================================================
+**Highly recommended, but not mandatory**
 
-**Name and Description**
-
-- Site Name
-- Site Code
-- Short Name
-- Size (in hectares)
-- General Site Description
-- Purpose of site
-- Parent site name - if applicable
-- Sub site name - if applicable
-
-**Contact Details**
-
-- Contact: Site Manager
-- Contact: Site Owner
-- Contact: Funding Agency
-- Web Address
-
-**Metadata Details**
-
-- Metadata provider
-
-**Geographic Location**
-
-- Country
-- Coordinates
-- Elevation (From)
-- Elevation (Maximum)
-- Elevation (To)
-
-**Ecosystem and Environmental Characteristics**
-
-- Temperature: Average Annual
-- Precipitation Annual
-- Biome
-- GEO-Bon biome
-- Ecosystem and Land Use
-- Biogeographic region
-
-**Network Affiliation**
-
-- LTER National Network
-- Networks (in addition to / Other than ILTER)
-
-**Site Classification**
-
-- Site Type (Spatial Design)
-- Site Classification/Category
-
-**Status and History**
-
-- Site Status
-- Year Established
-
-**Focus, Design and Scale of Site**
-
-- Research Topics
-- Parameters
-- Scale of Observation
-- Design of Observation
-- Scale of Experiments
-- Design of Experiments
-
-**Protection Status and Resource Management**
-
-- Protection Program
-
-**Infrastructure and Operation**
-
-- Infrastructure value
-- Accessible All Year
-- Permanent Power Supply
-- Permanent Operation
-
-**Data Sharing Policy**
-
-- Data Request Format
-- General Data Policy
-- Data storage location
-- Data services
+- Short name
+- Site Boundaries
+- GEO-BON Biome

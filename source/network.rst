@@ -2,11 +2,6 @@
 Editing a network
 ==============================================
 
-**Editing the network can only be done by national network managers**
+**Editing the network can only be done by the respective network managers**
 
-Log with your national network manager account
-Go to Network/Management/Network List
-Select your network
-Click on "Edit"
-Update your network information
-Click "Save"
+For further instructions, please get in direct contact with us.
