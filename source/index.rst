@@ -19,4 +19,5 @@ Contents:
   my_content
   network
   lter
-
+  deimsid
+  export
