@@ -56,8 +56,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'DEIMS-SDR Tutorials'
-copyright = '2018, Christoph Wohner'
-author = 'Christoph Wohner'
+copyright = '2020, LTER Europe'
+author = 'DEIMS Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
