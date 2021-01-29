@@ -88,8 +88,7 @@ These are the fields that are currently used to calculate said completeness.
 
 **Focus, Design and Scale of Site**
 
-- Parameters
-- Research Topics
+- Observed properties
 - Scale of Observation
 - Design of Observation
 - Scale of Experiments
@@ -100,10 +99,6 @@ These are the fields that are currently used to calculate said completeness.
 - Accessible All Year
 - Permanent Power Supply
 - Permanent Operation
-
-**Data Sharing Policy**
-
-- Data storage location
 
 **Highly recommended, yet not mandatory**
 
