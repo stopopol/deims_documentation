@@ -53,8 +53,7 @@ List of required fields for any LTER site
 
 **Focus, Design and Scale of Site**
 
-- Parameters
-- Research Topics
+- Observed properties
 - Scale of Observation
 - Design of Observation
 - Scale of Experiments
@@ -69,7 +68,6 @@ List of required fields for any LTER site
 **Data Sharing Policy**
 
 - General Data Policy
-- Data storage location
 
 **Highly recommended, but not mandatory**
 
