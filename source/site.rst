@@ -48,14 +48,10 @@ These are the fields that are currently used to calculate said completeness.
 
 - Site Name
 - General Site Description
-- Purpose of site
 
 **Contact Details**
 
 - Site Manager
-
-**Metadata Details**
-
 - Metadata provider
 
 **Geographic characteristics**
@@ -77,7 +73,7 @@ These are the fields that are currently used to calculate said completeness.
 
 - Affiliation
 
-**Site Classification**
+**Type, Design and Scale**
 
 - Site Type (Spatial Design)
 
@@ -94,11 +90,14 @@ These are the fields that are currently used to calculate said completeness.
 - Scale of Experiments
 - Design of Experiments
 
-**Infrastructure and Operation**
+**Operation**
 
 - Accessible All Year
-- Permanent Power Supply
 - Permanent Operation
+
+**Equipment**
+
+- Permanent Power Supply
 
 **Highly recommended, yet not mandatory**
 
