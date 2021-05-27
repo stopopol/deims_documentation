@@ -66,7 +66,7 @@ These are the fields that are currently used to calculate said completeness.
 
 - Air Temperature: Average Annual
 - Biome
-- Ecosystem and Land Use
+- Ecosystem Type
 - Precipitation Annual
 
 **Network Affiliation**
