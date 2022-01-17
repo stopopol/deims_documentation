@@ -61,3 +61,7 @@ Please be aware that ISO 19139 records only provide a limited subset of informat
 * https://deims.org/pycsw/csw.py?mode=oaipmh&verb=Identify (OAI-PMH OpenSearch site)
 
 For further information on how to implement these services, please consult official documentation for each service.
+
+CSW/OAI-PMH
+============================================================
+DEIMS-SDR also has a Python package that eases data access. You can find more information here: https://pypi.org/project/deims/
