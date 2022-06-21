@@ -21,4 +21,4 @@ If you need more information on something or feel like the tutorials are not suf
   lter
   deimsid
   export
-  acknowledgements
+  credits
