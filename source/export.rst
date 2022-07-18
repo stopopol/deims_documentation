@@ -20,7 +20,8 @@ adding ?format=csv each list can also be returned as .csv, e.g. https://deims.or
 The site list currently allows very basic filtering by network ids and whether or not sites are verified members.
 
 As an example, the following request returns all verified LTER Japan sites:
-https://deims.org/api/sites?network=6a7c82f8-f472-40ad-ae28-3035e239f3b6&verified=true
+
+* https://deims.org/api/sites?network=6a7c82f8-f472-40ad-ae28-3035e239f3b6&verified=true
 
 These lists always include the title, the unique ID used in DEIMS-SDR, coordinates and change date of a site.
 The ID can be used to get the detailed record of a resource. 
@@ -34,7 +35,11 @@ The following requests are examples for each record type:
 
 These records contain all available information and are only available as .json.
 
-While the current release of the REST-API is stable und ready for production use, we plan on releasing new version in the coming months that will add additional filter functionality and improve overall perfomance.
+Site records can be queried using the following query parameters:
+
+* https://deims.org/api/sites?network=735946e0-4e9e-484a-acee-85e31f4e2a2e&verified=true // networks
+* https://deims.org/api/sites?name=rosalia // site name
+* https://deims.org/api/sites?country=at // country
 
 WMS/WFS
 ============================================================
@@ -62,6 +67,6 @@ Please be aware that ISO 19139 records only provide a limited subset of informat
 
 For further information on how to implement these services, please consult official documentation for each service.
 
-CSW/OAI-PMH
+Python
 ============================================================
 DEIMS-SDR also has a Python package that eases data access. You can find more information here: https://pypi.org/project/deims/
