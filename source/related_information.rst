@@ -17,4 +17,4 @@ If DEIMS finds datasets that are associated to a site record it will automatical
 
 Linking existing data products
 ============================================================
-DEIMS is developed by eLTER and therefore allows extra functionality for eLTER sites. This includes the generation of data products (https://doi.org/10.5281/zenodo.17036642) and automatically linking the generated products to site records. If you have questions about the dedicated data products, please refer to their respective documentation under the provided DOI.
+DEIMS is developed by eLTER and therefore allows extra functionality for eLTER sites. This includes the generation of data products (e.g. https://doi.org/10.5281/zenodo.17036642) and automatically linking the generated products to site records. If you have questions about the dedicated data products, please refer to their respective documentation under the provided DOI.
