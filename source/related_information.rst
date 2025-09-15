@@ -2,7 +2,7 @@
 Information Related to Sites
 ==============================================
 
-When a new site record is added, DEIMS automatically performs several tasks in the background.
+For site records DEIMS automatically performs several tasks in the background.
 
 Connections to other data repositories
 ============================================================
