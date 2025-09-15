@@ -10,8 +10,8 @@ Using the site identifiers (e.g. DEIMS.iD or the ICOS station code) DEIMS checks
 
 Currently, DEIMS does that for:
 
-- The eLTER Digital Asset Register https://dar.elter-ri.eu/
-- The ICOS Data Portal
+- `The eLTER Digital Asset Register <https://dar.elter-ri.eu/>`_
+- `The ICOS Data Portal <https://data.icos-cp.eu/portal/>`_
 
 If DEIMS finds datasets that are associated to a site record it will automatically render a preview of those datasets on the site record. This is done automatically and does not require user input.
 
