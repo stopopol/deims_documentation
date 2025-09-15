@@ -2,7 +2,7 @@
 Information Related to Sites
 ==============================================
 
-For site records DEIMS automatically performs several tasks in the background.
+For each site record, DEIMS automatically carries out several background processes.
 
 Connections to other data repositories
 ============================================================
