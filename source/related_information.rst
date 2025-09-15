@@ -13,7 +13,7 @@ At present, DEIMS establishes such connections with:
 - `The eLTER Digital Asset Register <https://dar.elter-ri.eu/>`_
 - `The ICOS Data Portal <https://data.icos-cp.eu/portal/>`_
 
-If related datasets are found, DEIMS automatically generates a preview on the corresponding site record. This process requires no user intervention.
+If related datasets are found, DEIMS automatically generates a preview on the corresponding site record. This process requires no user action.
 
 Linking Existing Data Products
 ============================================================
