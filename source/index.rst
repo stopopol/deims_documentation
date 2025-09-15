@@ -20,5 +20,6 @@ If you need more information on something or feel like the tutorials are not suf
   network
   lter
   deimsid
+  related_information
   export
   credits
