@@ -15,7 +15,7 @@ At present, DEIMS establishes such connections with:
 
 If related datasets are found, DEIMS automatically generates a preview on the corresponding site record. This process requires no user action.
 
-Linking Existing Data Products
+Linking eLTER Data Products
 ============================================================
 As DEIMS is developed by eLTER, additional functionality is available for eLTER sites. This includes the creation of dedicated data products (e.g. https://doi.org/10.5281/zenodo.17036642) and their automatic linkage to site records.
 
