@@ -17,6 +17,6 @@ If related datasets are found, DEIMS automatically generates a preview on the co
 
 Linking eLTER Data Products
 ============================================================
-As DEIMS is developed by eLTER, additional functionality is available for eLTER sites. This includes the creation of dedicated data products (e.g. https://doi.org/10.5281/zenodo.17036642) and their automatic linkage to site records.
+As DEIMS is developed by eLTER, additional functionality is available for eLTER sites. This includes the creation of dedicated data products (e.g. https://doi.org/10.5281/zenodo.17428947) and their automatic linkage to site records.
 
 For more information on these dedicated data products, please refer to the documentation provided under the respective DOI.
