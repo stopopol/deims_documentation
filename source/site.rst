@@ -126,8 +126,11 @@ If you encounter any problems or have questions please contact us.
 
 The "Spotline on" feature
 =================================================
+Every few hours the spotlight changes to a different site record automatically.
+
 The criteria to be featured on the frontpage of DEIMS are:
 
 - Have a verified affiliation with at least one network on DEIMS
 - Have at least one image of the site with a description above characters
 - Have information on coordinates and elevation (msl), air temperature, year established
+
