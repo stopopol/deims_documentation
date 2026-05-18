@@ -132,6 +132,6 @@ So, every few hours a random record is selected to be "in the spotlight".
 The criteria to be featured on the frontpage of DEIMS are:
 
 - Have a verified affiliation with at least one network on DEIMS
-- Have at least one image of the site with a description above 15 characters
+- Have at least one image of the site with a description of more than 15 characters
 - Have information on coordinates and elevation (msl), air temperature, year established
 
