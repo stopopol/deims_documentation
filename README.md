@@ -1,6 +1,6 @@
 #  DEIMS documentation
 
-build it using sphinx in a python environment
+build it using sphinx in a juypter/python environment
 
 !pip install -U sphinx
 
@@ -11,4 +11,4 @@ make html
 
 import shutil
 
-shutil.make_archive("work/deims_docs", "zip", "work/deims_docs")
+shutil.make_archive("deims_docs", "zip", "deims_docs")
