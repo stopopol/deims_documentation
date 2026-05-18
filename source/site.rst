@@ -124,7 +124,7 @@ Please contact us personally regarding any kind of network accreditation.
 
 If you encounter any problems or have questions please contact us.
 
-The "Spotline on" feature
+The "Spotlight on" feature
 =================================================
 We want to highlight sites with strong documentation on DEIMS.
 
