@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'DEIMS Docs'
-copyright = '2025, DEIMS Team'
+copyright = '2026, DEIMS Team'
 author = 'DEIMS Team'
 release = '2.0'
 
