@@ -126,8 +126,9 @@ If you encounter any problems or have questions please contact us.
 
 The "Spotline on" feature
 =================================================
-Every few hours the spotlight changes to a different site record automatically.
+We want to highlight sites with strong documentation on DEIMS.
 
+So, every few hours a random record is selected to be "in the spotlight".
 The criteria to be featured on the frontpage of DEIMS are:
 
 - Have a verified affiliation with at least one network on DEIMS
