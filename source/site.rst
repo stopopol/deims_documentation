@@ -131,7 +131,7 @@ We want to highlight sites with strong documentation on DEIMS.
 So, every few hours a random record is selected to be "in the spotlight".
 The criteria to be featured on the frontpage of DEIMS are:
 
-- 100% completeness on the recommended fields
+- Full completion (100%) of all recommended fields
 - Have a verified affiliation with at least one network on DEIMS
 - Have at least one image of the site with a description of more than 15 characters 
 - Information on coordinates and elevation (msl), air temperature, year established and biome
