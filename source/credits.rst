@@ -2,7 +2,7 @@
 Acknowledgements
 ==============================================
 
-The development of DEIMS-SDR has been funded by European Union research projects:
+The development of DEIMS has been funded by European Union research projects:
 
 e-shape (Grant agreement ID: 820852)
 ============================================================
