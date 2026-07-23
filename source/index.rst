@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the tutorials section of DEIMS-SDR 
+Welcome to the tutorials section of DEIMS 
 ===================================================
 
 
-Here you will find information on how to use DEIMS-SDR. 
+Here you will find information on how to use DEIMS. 
 If you need more information on something or feel like the tutorials are not sufficient, please contact us so we can take care of that.
 
 .. image:: _images/logo_title_inline_height50.png
