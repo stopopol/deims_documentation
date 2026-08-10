@@ -134,6 +134,6 @@ The criteria to be featured on the frontpage of DEIMS are:
 - Full completion (100%) of all recommended fields
 - Have a verified affiliation with at least one network on DEIMS
 - Have at least one image of the site with a description of more than 15 characters 
-- Information on coordinates and elevation (msl), air temperature, year established and biome
+- Information on coordinates, boundaries and elevation (msl), air temperature, year established and biome
 - Have more than 5 observed properties ticked
 
