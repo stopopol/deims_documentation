@@ -4,6 +4,11 @@ Acknowledgements
 
 The development of DEIMS has been funded by European Union research projects:
 
+eLTER Enrich (Grant agreement ID: 101131751)
+============================================================
+- Maintenance
+- User support
+
 e-shape (Grant agreement ID: 820852)
 ============================================================
 - Maintenance
