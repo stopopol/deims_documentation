@@ -41,7 +41,7 @@ New networks, RIs or projects can't be added by users. Please contact us if you 
 
 Site Completeness Measure
 =======================================
-DEIMS-SDR will provide you with a status bar indicating how complete your site record is.
+DEIMS will provide you with a status bar indicating how complete your site record is.
 These are the fields that are currently used to calculate said completeness.
 
 **Name and Description**
