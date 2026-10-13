@@ -16,7 +16,7 @@ The DEIMS.ID is issued only once for a site. It never changes and is designed to
 
 Getting a DEIMS.ID
 ============================================================
-DEIMS.IDs are automatically generated for every site that is registered on DEIMS-SDR.
+DEIMS.IDs are automatically generated for every site that is registered on DEIMS.
 
 Finding your DEIMS.ID
 ============================================================
